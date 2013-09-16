@@ -1,0 +1,37 @@
+
+			name: 'angular boot camp',
+			date: '1/1/2014',
+			time: '10:30 am',
+			location:{
+				address: 'google headquarters',
+				city: 'CA'
+			},
+			sessions:[
+				{
+					'name':'Directives Masterclass',
+					'creatorName':'Bob Smith',
+					'duration':1,
+					'level':"advanced",
+					'abstract':'in this session you will learn the ins and the outs of directories',
+					'upVoteCount':5
+				},
+				
+				{
+					'name':'scopes for fun and profit',
+					'creatorName':'John Doe',
+					'duration':3,
+					'level':"introductory",
+					'abstract':'in this session you will take a closer look to scopes',
+					'upVoteCount':34
+					
+				},
+				{
+					'name':'well beahaved controllers',
+					'creatorName':'Bob Smith',
+					'duration':4,
+					'level':"intermediate",
+					'abstract':'Controllers are the beggining of every thing in angular js',
+					'upVoteCount':11
+				}
+			]
+		}
